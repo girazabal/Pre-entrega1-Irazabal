@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "consolas",
+        "nombre": "Consola",
+        "marca": "Microsoft",
+        "modelo": "Xbox One",
+        "precio": 100000,
+        "stock": 30,
+        "img": "Xbox-one.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "consolas",
+        "nombre": "Consola",
+        "marca": "Microsoft",
+        "modelo": "Xbox one series x",
+        "precio": 350000,
+        "stock": 20,
+        "img": "Xbox-series-x.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "consolas",
+        "nombre": "Consola",
+        "marca": "Sony",
+        "modelo": "Playstation 4",
+        "precio": 90000,
+        "stock": 15,
+        "img": "Playstation-4.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "consolas",
+        "nombre": "Consola",
+        "marca": "Sony",
+        "modelo": "Playstation 5",
+        "precio": 300000,
+        "stock": 30,
+        "img": "Playstation-5.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": "consolas",
+        "nombre": "Consola",
+        "marca": "Nintendo",
+        "modelo": "Switch",
+        "precio": 245000,
+        "stock": 10,
+        "img": "Nintendo-switch.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": "consolas-retro",
+        "nombre": "Consola retro",
+        "marca": "Nintendo",
+        "modelo": "Gameboy",
+        "precio": 90000,
+        "stock": 5,
+        "img": "Gameboy.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": "consolas-retro",
+        "nombre": "Consola retro",
+        "marca": "Nintendo",
+        "modelo": "Gameboy color",
+        "precio": 75000,
+        "stock": 6,
+        "img": "Gameboy-color.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "consolas-retro",
+        "nombre": "Consola retro",
+        "marca": "Nintendo",
+        "modelo": "SNES",
+        "precio": 75000,
+        "stock": 8,
+        "img": "SNES.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": "consolas-retro",
+        "nombre": "Consola retro",
+        "marca": "Sony",
+        "modelo": "Playstation 1",
+        "precio": 60000,
+        "stock": 10,
+        "img": "Playstation-1.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Microsoft",
+        "modelo": "Resident evil 2",
+        "precio": 2400,
+        "stock": 7,
+        "img": "RE-2.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Microsoft",
+        "modelo": "THPS 1 y 2",
+        "precio": 4500,
+        "stock": 20,
+        "img": "THPS.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Sony",
+        "modelo": "Crash Bandicoot",
+        "precio": 2500,
+        "stock": 10,
+        "img": "Crash-Bandicoot.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Sony",
+        "modelo": "COD",
+        "precio": 3500,
+        "stock": 30,
+        "img": "COD.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Sony",
+        "modelo": "Spiderman",
+        "precio": 3400,
+        "stock": 21,
+        "img": "Spiderman.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Sony",
+        "modelo": "FIFA 23",
+        "precio": 11400,
+        "stock": 20,
+        "img": "Fifa-23.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Sony",
+        "modelo": "NBA 2K23",
+        "precio": 10200,
+        "stock": 10,
+        "img": "NBA-2K23.jpg"
+    },
+    {
+        "id": 17,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Microsoft",
+        "modelo": "NFS Hot Persuit",
+        "precio": 6200,
+        "stock": 8,
+        "img": "NFS.jpg"
+    },
+    {
+        "id": 18,
+        "idCategoria": "videojuegos",
+        "nombre": "Juego",
+        "marca": "Microsoft",
+        "modelo": "Sims Eco life",
+        "precio": 7500,
+        "stock": 13,
+        "img": "Sims.jpg"
+    },
+    {
+        "id": 19,
+        "idCategoria": "accesorios",
+        "nombre": "Auriculares",
+        "marca": "HyperX Cloud Stinger Core",
+        "modelo": "HHSS1C-BA-BK",
+        "precio": 25000,
+        "stock": 25,
+        "img": "Auriculares.jpg"
+    },
+    {
+        "id": 20,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Sony",
+        "modelo": "PlayStation",
+        "precio": 20000,
+        "stock": 30,
+        "img": "Joystick-playstation.jpg"
+    },
+    {
+        "id": 21,
+        "idCategoria": "accesorios",
+        "nombre": "Joystick",
+        "marca": "Microsoft",
+        "modelo": "Xbox one",
+        "precio": 30000,
+        "stock": 20,
+        "img": "Joystick-xbox.jpg"
+    },
+    {
+        "id": 22,
+        "idCategoria": "accesorios",
+        "nombre": "Teclado",
+        "marca": "Marvo",
+        "modelo": "Gaming K656",
+        "precio": 2000,
+        "stock": 20,
+        "img": "Teclado-gamer.jpg"
+    },
+    {
+        "id": 23,
+        "idCategoria": "accesorios",
+        "nombre": "Pilas",
+        "marca": "Sony",
+        "modelo": "Cycle Energy",
+        "precio": 18000,
+        "stock": 13,
+        "img": "Pilas.jpg"
+    }
+]
