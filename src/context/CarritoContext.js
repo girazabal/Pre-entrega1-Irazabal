@@ -27,16 +27,13 @@ export const CarritoProvider = (props) => {
             setCarrito([])
         }
         const removeItem = (id) => {
-            // const aux = [...carrito]
-            // const indice = aux.findIndex(prod => prod.id ===id)
-            // setCarrito(aux.splice(indice, 1))
             setCarrito(carrito.filter(prod => prod.id !== id))
         }
         const getItemQuantity = () =>{
-            return carrito.reduce((acc, prod) => acc += prod.cantidad, 0)
+        return carrito.reduce((acum, prod) => acum += prod.cant, 0)
         }
         const totalPrice = () => {
-            return carrito.reduce((acc, prod) => acc += (prod.cantidad * prod.precio), 0)
+            return carrito.reduce((acum, prod) => acum += (prod.cant * prod.precio), 0)
         }
         console.log(carrito)
         return <CarritoContext.Provider value= {{carrito, isInCart, addItem, removeItem, emptyCart, getItemQuantity, totalPrice}}>
