@@ -41,3 +41,15 @@ Asimismo, si se hace click en la imagen del producto se llevara a la card con el
 El carrito muestra la totalidad de los productos elegidos.
 Finalmente consta de un boton para poder finalizar la compra, el cual te dirige hacia un formulario en el cual se debe introducir nombre y apellido, DNI, dirección, telefono y mail para poder generar una orden (la genera firebase una vez validado el formulario).
 
+## Screenshots
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/1-Proyecto%20React%20-%20home.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/2-Categoria%20-%20consolas.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/3-Categoria%20-%20consolas%20retro.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/4-Categoria%20-%20videojuegos.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/5-Categoria%20-%20accesorios.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/6-Detalle%20del%20producto.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/7-Carrito%20vac%C3%ADo.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/8-Carrito%20con%20productos.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/9-Detalle%20carrito.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/10-Error%20formulario%20incompleto.png)
+![alt text](https://github.com/girazabal/pre-entrega1-Irazabal/blob/main/docs/11-Orden%20de%20compra%20exitosa.png)
