@@ -7,7 +7,7 @@
         "modelo": "Xbox One",
         "precio": 100000,
         "stock": 30,
-        "img": "Xbox-one.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Xbox-one.jpg?alt=media&token=0ac335d0-8bb7-4f1e-af61-a26c8425b903",
         "descripcion":"Con tu consola Xbox One tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Con más de 40 millones de unidades vendidas alrededor del mundo, Xbox One fue una sensación durante la última década. Con esta consola podrás desafiar tus habilidades con increíbles juegos y disfrutar del mejor contenido online durante horas."
     },
     {
@@ -18,7 +18,7 @@
         "modelo": "Xbox one series x",
         "precio": 350000,
         "stock": 20,
-        "img": "Xbox-series-x.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Xbox-series-x.jpg?alt=media&token=f7adacf0-feab-4865-813c-0c81d6d58005",
         "descripcion":"La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te divertís con jugadores de todo el mundo."
     },
     {
@@ -29,7 +29,7 @@
         "modelo": "Playstation 4",
         "precio": 90000,
         "stock": 15,
-        "img": "Playstation-4.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Playstation-4.jpg?alt=media&token=41620faf-2c73-4e23-9798-9bd127472310",
         "descripcion":"Con tu consola PlayStation 4 tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Con la consola PlayStation 4, líder mundial en ventas durante años, podrás gozar de horas de juego y una excelente navegabilidad para disfrutar de películas, series y contenido online. Gracias a sus pequeñas dimensiones, su consumo energético es reducido, lo que la convierte en un producto económico y accesible."
     },
     {
@@ -40,7 +40,7 @@
         "modelo": "Playstation 5",
         "precio": 300000,
         "stock": 30,
-        "img": "Playstation-5.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Playstation-5.jpg?alt=media&token=d19b8fb5-4b98-4727-b96c-42ed6af1e322",
         "descripcion":"PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos."
     },
     {
@@ -51,7 +51,7 @@
         "modelo": "Switch",
         "precio": 245000,
         "stock": 10,
-        "img": "Nintendo-switch.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Nintendo-Switch.jpg?alt=media&token=98a10105-b35c-4c86-a3e7-5c61b28a05f4",
         "descripcion":"Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online."
     },
     {
@@ -62,7 +62,7 @@
         "modelo": "Gameboy",
         "precio": 90000,
         "stock": 5,
-        "img": "Gameboy.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Gameboy.jpg?alt=media&token=5bd377bf-2055-4474-a935-08435c521b64",
         "descripcion": "NINTENDO Gameboy Classic. Modelo: DMG-01. Muy buen estado y funcional. Numero Serie G15754741. Unico Propietario Original del Producto"
     },
     {
@@ -73,7 +73,7 @@
         "modelo": "Gameboy color",
         "precio": 75000,
         "stock": 6,
-        "img": "Gameboy-color.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Gameboy-color.jpg?alt=media&token=895f042e-1b31-4e58-8c66-fe12264fb449",
         "descripcion":"Consola GAMEBOY COLOR KIWI en buen estado estético general. Funciona todo correctamente, tanto los botones como el sonido. Pantalla con pocas rayas superficiales. No incluye tapa de pilas pero eso no dificulta su uso."
     },
     {
@@ -84,7 +84,7 @@
         "modelo": "SNES",
         "precio": 75000,
         "stock": 8,
-        "img": "SNES.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/SNES.jpg?alt=media&token=8b1b4d0a-9618-428e-9de8-0239c382d1d4",
         "descripcion": "Con tu consola Super NES Classic Edition tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos."
     },
     {
@@ -95,7 +95,7 @@
         "modelo": "Playstation 1",
         "precio": 60000,
         "stock": 10,
-        "img": "Playstation-1.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Playstation-1.jpg?alt=media&token=c1b9aa9b-abe8-4e37-a22d-48abaec313ec",
         "descripcion":"Con tu consola PlayStation Classic tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos."
     },
     {
@@ -106,7 +106,7 @@
         "modelo": "Resident evil 2",
         "precio": 2400,
         "stock": 7,
-        "img": "RE-2.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/RE-2.jpg?alt=media&token=173f1157-5d86-4348-ae80-dc7929e04564",
         "descripcion":"Con este juego de Resident Evil vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer."
     },
     {
@@ -117,7 +117,7 @@
         "modelo": "THPS 1 y 2",
         "precio": 4500,
         "stock": 20,
-        "img": "THPS.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/THPS.jpg?alt=media&token=426c3dc1-5321-476a-b473-dd6d8fd66011",
         "descripcion":"Con este juego de Tony Hawk's vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer."
     },
     {
@@ -128,7 +128,7 @@
         "modelo": "Crash Bandicoot",
         "precio": 2500,
         "stock": 10,
-        "img": "Crash-Bandicoot.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Crash-bandicoot.jpg?alt=media&token=21073144-2214-4810-a95c-9d158714f6ae",
         "descripcion":"Desde su desarrollo, las ediciones de Crash se han destacado por la jugabilidad pensada para personas fanáticas de este personaje. Conocido como un juego de plataforma clásico, la franquicia fue alternando entre acción, aventura y videojuegos de carreras."
     },
     {
@@ -139,7 +139,7 @@
         "modelo": "COD",
         "precio": 3500,
         "stock": 30,
-        "img": "COD.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/COD.jpg?alt=media&token=06ad7759-17ac-44ba-8422-5be646db2a11",
         "descripcion": "Combinando realidad con ficción, Call of Duty es un juego único por su calidad de desarrollo. Su objetivo es que cada jugador logre conquistar todas las misiones, ya sea en una batalla contra otros ejércitos o combatiendo zombies. Sus gráficos, jugabilidad, desafíos e historias han hecho de la franquicia una de las más destacadas dentro de los videojuegos en primera persona."
     },
     {
@@ -150,7 +150,7 @@
         "modelo": "Spiderman",
         "precio": 3400,
         "stock": 21,
-        "img": "Spiderman.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Spiderman.jpg?alt=media&token=b9d3e540-8544-4dbd-a935-55774d580e9c",
         "descripcion":"Con este juego de Hombre Araña vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer."
     },
     {
@@ -161,7 +161,7 @@
         "modelo": "FIFA 23",
         "precio": 11400,
         "stock": 20,
-        "img": "Fifa-23.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Fifa-23.jpg?alt=media&token=caa33605-2b9b-422f-b6e1-90fcc0e78a39",
         "descripcion": "FIFA es el videojuego de fútbol más vendido de la actualidad y con más de 25 años de desarrollo. Vas a poder jugar con tus equipos y futbolistas preferidos en diversos modos. ¡Preparate para convertirte en campeón de todas las copas y torneos!"
     },
     {
@@ -172,7 +172,7 @@
         "modelo": "NBA 2K23",
         "precio": 10200,
         "stock": 10,
-        "img": "NBA-2K23.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/NBA-2K23.jpg?alt=media&token=3b5d3b73-087c-40f4-975c-75a817ac8612",
         "descripcion": "Con este juego de NBA 2K vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer."
     },
     {
@@ -183,7 +183,7 @@
         "modelo": "NFS Hot Persuit",
         "precio": 6200,
         "stock": 8,
-        "img": "NFS.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/NFS.jpg?alt=media&token=91819d70-71e5-4651-be1b-53b49062f6d7",
         "descripcion":"Con este juego de Need for Speed vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer."
     },
     {
@@ -194,7 +194,7 @@
         "modelo": "Sims Eco life",
         "precio": 7500,
         "stock": 13,
-        "img": "Sims.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Sims.jpg?alt=media&token=263e04fb-b483-4bf6-a115-af21cd8a4329",
         "descripcion":"Con este juego de The Sims vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer."
     },
     {
@@ -205,7 +205,7 @@
         "modelo": "HHSS1C-BA-BK",
         "precio": 25000,
         "stock": 25,
-        "img": "Auriculares.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Auriculares.jpg?alt=media&token=fc19a53a-bb37-4ab4-a1f7-386c23183830",
         "descripcion": "¡Experimentá la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los HyperX Stinger Core Wireless + 7.1 no te perdés ningún detalle y escuchás el audio tal y como fue diseñado por los creadores."
     },
     {
@@ -216,7 +216,7 @@
         "modelo": "Cycle Energy",
         "precio": 18000,
         "stock": 13,
-        "img": "Pilas.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Pilas.jpg?alt=media&token=73204c91-218e-49cb-a84c-14609405da8a",
         "descripcion": "CARGADOR SONY AA/AAA + 2 PILAS AAA 800MH. PUEDE CARGAR HASTA 2 PILAS AA O 2 PILAS AAA NH. CONTROL AUTOMÁTICO DE SEGURIDAD. VOLTAJE 110/240V."
     },
     {
@@ -227,7 +227,7 @@
     "modelo": "G series",
     "precio": 10200,
     "stock": 15,
-    "img": "Mouse-gamer.jpg",
+    "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Mouse-gamer.jpg?alt=media&token=b464e53e-d848-4ee0-8468-782d46806c10",
     "descripcion": "El mouse de juego te ofrecerá la posibilidad de marcar la diferencia y sacar ventajas en tus partidas. Su conectividad y sensor suave ayudará a que te desplaces rápido por la pantalla."
 },
     {
@@ -238,7 +238,7 @@
         "modelo": "PlayStation",
         "precio": 20000,
         "stock": 30,
-        "img": "Joystick-playstation.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Joystick-playstation.jpg?alt=media&token=ac4f197c-782a-4b72-9a59-6d0446d0e262",
         "descripcion": "Este mando combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, podés pasar horas jugando con total confort."
     },
     {
@@ -249,7 +249,7 @@
         "modelo": "Xbox one",
         "precio": 30000,
         "stock": 20,
-        "img": "Joystick-xbox.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Joystick-xbox.jpg?alt=media&token=39450507-c1dc-4eec-ae18-ac7f29f33d7d",
         "descripcion": "Este mando combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, podés pasar horas jugando con total confort."
     },
     {
@@ -260,7 +260,7 @@
         "modelo": "Gaming K656",
         "precio": 6200,
         "stock": 20,
-        "img": "Teclado-gamer.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/nivel-x.appspot.com/o/Teclado-gamer.jpg?alt=media&token=db35601d-625b-450f-a6fb-7b42bcf817b0",
         "descripcion": "Este teclado Marvo de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel."
     }
 ]

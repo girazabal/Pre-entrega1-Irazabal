@@ -1,6 +1,8 @@
 .cardProduct{
     width: 19rem;
     margin: 20px;
+    height: 33rem;
+    justify-content:space-evenly;
 }
 .cardProducts {
     margin: 15px;

@@ -7,7 +7,7 @@ const Item = ({product}) => {
     return (
         <>
 <div className="card cardProduct">
-    <img src={`../img/${product.img}`} className="card-img-top" alt="..." />
+    <img src={`${product.img}`} className="card-img-top" alt="..." />
     <div className={`${darkMode ? 'cardBodyDark' : 'cardBody'}`}>
     <h5 className="card-title">{product.nombre} {product.modelo}</h5>
     <p className="card-text">{product.marca}</p>
