@@ -32,7 +32,7 @@ La pagina consiste en una pagina principal, donde se muestran los productos que 
 Asimismo, si se hace click en la imagen del producto se llevara a la card con el detalle del mismo, en donde se dara una descripcion del producto y una botonera para poder agregar productos al carrito. 
 
 ### Categorías
- En la barra de navegación se puede elegir entre las dos categorías de productos para visualizar. 
+ En la barra de navegación se puede elegir entre las categorías de productos para visualizar. 
 
 ### Carrito
 
