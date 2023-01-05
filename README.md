@@ -1,7 +1,5 @@
 # E-commerce. Hecho por [Gonzalo Irazabal](https://github.com/girazabal)
 
-# [![CSS](https://img.shields.io/badge/Link%20al%20sitio-blueviolet)]
-
 # Nivel-x - Aplicacion desarrolada con React.js
 
 ## Comandos
