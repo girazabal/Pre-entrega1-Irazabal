@@ -15,10 +15,10 @@ const {darkMode} = useDarkModeContext()
     <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
 </svg>
 </Link>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon" />
     </button>
-    <div className="collapse navbar-collapse">
+    <div className="collapse navbar-collapse" id="navbarColor01">
         <Categories/>
         <Form/>
     </div>
